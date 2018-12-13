@@ -1,0 +1,23 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+p {
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #0C6CA9;
+  border-color: #0C6CA9;
+}
+
+.kva-bg {
+  background-color: #0C6CA9;
+}
+
+.kva-header {
+  font-weight: 700;
+  color: #0C6CA9;
+  -webkit-font-smoothing: antialiased;
+}
